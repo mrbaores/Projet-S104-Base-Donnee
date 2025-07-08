@@ -1,4 +1,4 @@
-# 🎮 S104 : Exploitation de Base de Données Jeux Vidéo
+# 🎮 S104 : Exploitation de Base de Données S104
 
 ## 📌 **Description**
 
